@@ -4,7 +4,7 @@
 
 **专为 Camera Tuning 工程师打造的多功能图片/视频浏览器**
 
-[![Version](https://img.shields.io/badge/version-3.6.6-blue.svg)](https://github.com/yourusername/hiviewer/releases)
+[![Version](https://img.shields.io/badge/version-3.7.0-blue.svg)](https://github.com/yourusername/hiviewer/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/yourusername/hiviewer)
 
